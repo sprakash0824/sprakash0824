@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **sprakash0824@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: **  Data Analyst Projects
+- 🔭 **I’m currently working on:**  Data Analyst Projects
 - 🌱 **I’m currently learning:** Python
 - 👯 **I’m looking to collaborate on:** Data Analytics and Power BI Projects
 - 🤔 **I’m looking for help with:** Real-World Data Analytics Projects
