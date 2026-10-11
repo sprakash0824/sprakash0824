@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **sprakash0824@gmail.com** For Collaboration/Project or Any
 - 👯 **I’m looking to collaborate on:** Data Analytics and Power BI Projects
 - 🤔 **I’m looking for help with:** Real-World Data Analytics Projects
 - 💬 **Ask me about:** Excel, SQL, Power BI and DAX 
-- 📫 **My Instagram ID:** prakash_singh_024
+- 📫 **My Outlook Mail:** sprakash082004@outlook.com
 - 🏆  **Certification** Microsoft Certified:
                         Power BI Data Analyst Associate (PL-300)
 - ⚡ **Fun fact:** I love turning raw data into meaningful insights!
